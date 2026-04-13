@@ -1,5 +1,5 @@
 # Mental-Health-Chatbot-Guardrail-Training
-"Generated a labeled synthetic dataset of ~X conversations across 23 risk categories for training a mental health chatbot classifier"
+Generated a labeled synthetic dataset of ~X conversations across 23 risk categories for training a mental health chatbot input guardrail. The guardrail that was trained for the competition was a stacked finetuned mBert + LLM classifier.
 
 
 
