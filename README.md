@@ -115,18 +115,6 @@ Every generated conversation passes through an evaluator before being saved. The
 
 Conversations that fail are logged and discarded. Acceptance rate in practice was roughly 80–85%.
 
----
-
-## Repo Structure
-
-```
-guardrails-data-gen/
-├── notebooks/
-│   └── data_generator.ipynb   # Full pipeline
-├── data/
-│   └── persona.csv            # Sample output (5 conversations)
-└── README.md
-```
 
 ---
 
